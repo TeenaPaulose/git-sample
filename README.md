@@ -1,1 +1,3 @@
-# git-sample
+# git-sample!
+
+this is for gui
